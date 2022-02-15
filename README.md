@@ -7,8 +7,8 @@ This dataset consists of 15264 (512x512) chest X-ray images for the train set an
 ![test example](covid.png)
 
 Task:
-1- Download all parts of the dataset from the data section.
-2- Design a neural network that gets the images from the input and predicts the labels of the images in the output.
-3- Train your neural network using the train dataset.
-4- Predict the correct labels of test data and submit your prediction file. You can find a sample submission file and its format in the data section (Note that later you also need to submit your codes in the learn and your submission file must be reproducible by your code)
+- Download all parts of the dataset from the data section.
+- Design a neural network that gets the images from the input and predicts the labels of the images in the output.
+- Train your neural network using the train dataset.
+- Predict the correct labels of test data and submit your prediction file. You can find a sample submission file and its format in the data section (Note that later you also need to submit your codes in the learn and your submission file must be reproducible by your code)
 
