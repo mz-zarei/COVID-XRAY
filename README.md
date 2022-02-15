@@ -6,7 +6,8 @@ This dataset consists of 15264 (512x512) chest X-ray images for the train set an
 
 ![test example](covid.png)
 Link to the dataset: https://www.kaggle.com/c/stat946winter2021/data
-Task:
+
+Tasks:
 - Download all parts of the dataset from the data section.
 - Design a neural network that gets the images from the input and predicts the labels of the images in the output.
 - Train your neural network using the train dataset.
