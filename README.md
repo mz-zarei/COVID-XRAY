@@ -4,7 +4,7 @@ The Coronavirus Disease 2019 (COVID-19) has brought a worldwide threat to the li
 
 This dataset consists of 15264 (512x512) chest X-ray images for the train set and 400 images for the test set. The dataset contains positive and negative classes to indicate the positive and negative COVID-19 cases. You can find some examples of this dataset below:
 
-![test example]{covid.png}
+![test example](covid.png)
 
 Task:
 1- Download all parts of the dataset from the data section.
