@@ -5,7 +5,7 @@ The Coronavirus Disease 2019 (COVID-19) has brought a worldwide threat to the li
 This dataset consists of 15264 (512x512) chest X-ray images for the train set and 400 images for the test set. The dataset contains positive and negative classes to indicate the positive and negative COVID-19 cases. You can find some examples of this dataset below:
 
 ![test example](covid.png)
-
+Link to the dataset: https://www.kaggle.com/c/stat946winter2021/data
 Task:
 - Download all parts of the dataset from the data section.
 - Design a neural network that gets the images from the input and predicts the labels of the images in the output.
