@@ -1,2 +1,3 @@
-# DL1_COVID_XRAY
+# COVID-XRAY Classification
+
 Finetuning AlexNet for classifying COVID-19 X-ray images
