@@ -21,6 +21,5 @@ In step 4, a classifier head is added to a pretrained AlexNet (several pretraine
 - Use Model for Test Data
   - In step 6, the best trained model on the basis of largest F1 score over validation set can be used for predicting test data. Due to randomness of training process the final accuracy of best model over test set may be a bit lower than leader board scores (it should be around 95-97%). In the following, the performance of 10 best models over my validation set are presented (all are available in MZareiFolder/DL1_MZarei/Models). These models have exactly same architecture/hyperparameters and have been trained with same train set. An interesting observation is that using bagging method over all models provides better results than each individual model (this can be tested in the last two parts of the notebook). However, the performance of bag-model is worse than the performance of best individual model over the test data in Kaggle. The best model in terms of Kaggle test is model6.pt with 97% accuracy. The reason for this may be because of relatively low number of test data.
 
-![image](https://github.com/mz-zarei/COVID-XRAY/edit/main/table.png)
-
+![Results](table.png)
 
